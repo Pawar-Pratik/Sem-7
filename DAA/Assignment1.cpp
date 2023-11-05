@@ -1,6 +1,4 @@
-/*Write a program non-recursive and recursive program to calculate Fibonacci numbers and
-analyze their time and space complexity*/
-// Assignment 1
+// Assignment 1: Write a program non-recursive and recursive program to calculate Fibonacci numbers and analyze their time and space complexity
 
 #include <iostream>
 using namespace std;
